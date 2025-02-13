@@ -1,3 +1,7 @@
 gyere kislany igyunk valamit
+<<<<<<< HEAD
 Szeretem a gyrost.
 Szeretem a pizzát.
+=======
+nehez eset vagy azt mondta valaki
+>>>>>>> 64500f76ae47b2904683fd4710a85e56ba332ed3
